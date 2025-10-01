@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="refresh" content="0; url=https://rekarayasarana.com/menu/home">
+
+  <meta name="viewport" content="width=device-width">
+    <meta name="generator" content="Framer 04b9457">
+    <title>PT. REKARAYA - Jasa Konstruksi, Listrik &amp; Telekomunikasi Profesional</title>
+    <meta name="description" content="PT. REKARAYA adalah perusahaan jasa konstruksi, listrik, dan telekomunikasi terpercaya di Indonesia. Didukung tenaga ahli berpengalaman, layanan tepat waktu, dan hasil berkualitas tinggi untuk kebutuhan proyek Anda.">
+    <meta name="framer-search-index" content="https://framerusercontent.com/sites/5XFSLVXHcMbXKF3dFbZcpU/searchIndex-PatlGAjN7koL.json">
+    <meta name="framer-search-index-fallback" content="https://framerusercontent.com/sites/5XFSLVXHcMbXKF3dFbZcpU/searchIndex-UBEBfysTYfdN.json">
+    <link href="https://framerusercontent.com/images/ru7DDPgxzbvzugwNo0EcDA08.svg" rel="icon" media="(prefers-color-scheme: light)">
+    <link href="https://framerusercontent.com/images/p9r8ssme9ZryY0Tqkve9NR8s88.svg" rel="icon" media="(prefers-color-scheme: dark)">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="PT. REKARAYA - Jasa Konstruksi, Listrik &amp; Telekomunikasi Profesional">
+    <meta property="og:description" content="PT. REKARAYA adalah perusahaan jasa konstruksi, listrik, dan telekomunikasi terpercaya di Indonesia. Didukung tenaga ahli berpengalaman, layanan tepat waktu, dan hasil berkualitas tinggi untuk kebutuhan proyek Anda.">
+    <meta property="og:image" content="https://framerusercontent.com/assets/UB4PVq5rzBH0y9dPW9eu1WXg3Q.webp">
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="PT. REKARAYA - Jasa Konstruksi, Listrik &amp; Telekomunikasi Profesional">
+    <meta name="twitter:description" content="PT. REKARAYA adalah perusahaan jasa konstruksi, listrik, dan telekomunikasi terpercaya di Indonesia. Didukung tenaga ahli berpengalaman, layanan tepat waktu, dan hasil berkualitas tinggi untuk kebutuhan proyek Anda.">
+    <meta name="twitter:image" content="https://framerusercontent.com/assets/UB4PVq5rzBH0y9dPW9eu1WXg3Q.webp">
+    
+</head>
+<body>
+</body>
+</html> 
